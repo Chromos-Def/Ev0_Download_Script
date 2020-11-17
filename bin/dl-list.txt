@@ -2,9 +2,10 @@ https://download.mozilla.org/?product=firefox-latest-ssl&os=win64&lang=en-US
 https://discord.com/api/download?platform=win
 https://steamcdn-a.akamaihd.net/client/installer/SteamSetup.exe
 https://us.battle.net/download/getInstaller?os=win&installer=Battle.net-Setup.exe
+https://securedownloads.superantispyware.com/SUPERAntiSpyware.exe
+https://download.teamviewer.com/download/TeamViewer_Setup.exe
+https://downloads.jam-software.de/treesize_free/TreeSizeFreeSetup.exe
 https://www.7-zip.org/a/7z2002-x64.exe
 https://www.rarlab.com/rar/winrar-x64-60b2.exe
-https://securedownloads.superantispyware.com/SUPERAntiSpyware.exe
 https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v7.9.1/npp.7.9.1.Installer.x64.exe
-https://download.teamviewer.com/download/TeamViewer_Setup.exe
 https://www.fosshub.com/qBittorrent.html?dwl=qbittorrent_4.3.0.1_x64_setup.exe
